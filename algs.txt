@@ -1,0 +1,59 @@
+networkx
+
+    COMMUNITY DETECTION
+Dendrograms
+q Girvan-Newman (2001)
+q Modularity optimization (2004)
+q Spectral clustering (2002
+
+
+    OVERLAPPING COMMUNITIES MODELS
+q Clique percolation (Palla et al., 2005)
+q Link clustering (Ahn et al., 2010) (Evans et al., 2009)
+q Clique expansion (Lee et al., 2010)
+q Mixed membership stochastic model (Airoldi et al., 2008)
+q Bayesian matrix factorization (Psorakis et al., 2011)
+q BigCLAM (Yang and Lescovec, 2013)
+
+    NB SHOW DENDROGRAMS
+    
+    EDGE BETWEENNES
+Girvan-Newman method
+
+    MODULARITY
+Louvain algorithm <- to use on a similarity matrix
+Consensus clustering
+Spectral clustering
+Fiedler’s algorithm
+Authority shift
+BigCLAM
+
+    ROBUSTNESS
+Molloy-Reed Criterion
+
+    GRAPH REPRESENTATION
+Fruchterman and Reingold
+Force atlas 2
+igraph library
+Grip (IT IS BETTER THAN Fruchterman and Reingold)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
